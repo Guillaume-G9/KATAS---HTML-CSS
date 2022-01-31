@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    border: 13px solid red;
+    width: 50%;
+    height: 24vh;
+    background-color: black;
+}

@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: white;
+    height: 40vh;
+    background-color: #152133;
+}
+
+button {
+    margin-top: 2%;
+    background-color: #FCA311;
+    font-size: 21px;
+    padding: 1% 1% 1% 1%;
+    border-radius: 50px;
+}
+
+p {
+    font-size: 16px
+}
