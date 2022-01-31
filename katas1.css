@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 50%;
+    height: 32vh;
+    background-color: black;
+}
